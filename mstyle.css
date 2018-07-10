@@ -1,0 +1,53 @@
+body {
+	width: 60%;
+	margin: 0px auto;
+}
+
+.header{
+  background-color: yellow;
+  background-repeat: no-repeat;
+  padding: 70px 10px 50px 40px;
+  margin-top: -10px !important;
+}
+
+.menu-area{
+	width: 40%;
+}
+
+.list{
+	word-spacing: 1em;
+	float: left;
+}
+
+.signin-login{
+	width: 70%;
+	word-spacing: 1em;
+	margin-left: 44em;
+}
+
+.content{
+	padding-top: 40px;
+	font-size: 25px;
+	color: red;
+	text-decoration: underline;
+}
+.table-content{
+	padding-top: 20px;
+}
+
+#l2 a:link, a:visited, a:focus {
+  color: purple;
+}
+#l2 a:hover
+{
+  background-color: yellow;
+}
+
+.footer{
+  background-color: yellow;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  padding-left: 20px;
+  margin-top: 104px;
+}
+
